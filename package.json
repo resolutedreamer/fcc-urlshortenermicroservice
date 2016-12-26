@@ -1,0 +1,26 @@
+{
+  "name": "resolutedreamer-urlshortener",
+  "version": "1.0.1",
+  "description": "Free Code Camp URL Shortener Microservice",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "author": "Anthony Nguyen",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resolutedreamer/fcc-urlshortenermicroservice.git"
+  },
+  "keywords": [
+    "urlshortenermicroservice"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/resolutedreamer/fcc-urlshortenermicroservice/issues"
+  },
+  "homepage": "https://github.com/resolutedreamer/fcc-urlshortenermicroservice#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
