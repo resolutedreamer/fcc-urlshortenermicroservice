@@ -1,7 +1,7 @@
 {
   "name": "resolutedreamer-urlshortener",
-  "version": "1.0.1",
-  "description": "Free Code Camp URL Shortener Microservice",
+  "version": "1.0.0",
+  "description": "Free Code Camp - URL Shortener Microservice",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/resolutedreamer/fcc-urlshortenermicroservice#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "mongodb": "^2.2.16"
   }
 }
